@@ -1,0 +1,1 @@
+Exact submitted release APK installed with adb install -r on separate Activity09Fresh emulator-5556. Old PID 6935; absent after am force-stop; new PID 8158. See UI capture transcript and connection log.

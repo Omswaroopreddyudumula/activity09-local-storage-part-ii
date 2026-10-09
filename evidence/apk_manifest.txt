@@ -1,0 +1,1 @@
+Release manifest android:debuggable = false, verified using Android apkanalyzer on the exact final APK.

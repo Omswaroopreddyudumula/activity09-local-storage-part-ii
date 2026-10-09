@@ -1,0 +1,1 @@
+Android system App info > Force stop > OK; launch same MainActivity. No storage clearing. Old PID 29407; stopped absent; new PID 1935. Exact database rows before == after: True.

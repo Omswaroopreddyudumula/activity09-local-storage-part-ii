@@ -1,0 +1,62 @@
+{
+  "my_table": [
+    [
+      2,
+      "River",
+      35
+    ],
+    [
+      3,
+      "Acorn",
+      0
+    ],
+    [
+      4,
+      "Oak",
+      130
+    ]
+  ],
+  "folders": [
+    [
+      2,
+      "Lantern",
+      "2026-10-08T23:23:26.877610"
+    ]
+  ],
+  "cards": [
+    [
+      3,
+      "Beacon",
+      "Clubs",
+      "",
+      null,
+      2
+    ]
+  ],
+  "version": [
+    [
+      2
+    ]
+  ],
+  "fk": [
+    [
+      0,
+      0,
+      "folders",
+      "folder_id",
+      "id",
+      "NO ACTION",
+      "CASCADE",
+      "NONE"
+    ]
+  ],
+  "indexes": [
+    [
+      0,
+      "idx_cards_folder_id",
+      0,
+      "c",
+      0
+    ]
+  ]
+}

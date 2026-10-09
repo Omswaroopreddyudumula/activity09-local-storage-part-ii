@@ -1,0 +1,47 @@
+{
+  "upgrade_schema": [
+    [
+      "android_metadata",
+      "CREATE TABLE android_metadata (locale TEXT)"
+    ],
+    [
+      "cards",
+      "CREATE TABLE cards (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL CHECK(length(trim(title)) > 0), suit TEXT NOT NULL CHECK(suit IN ('Hearts','Diamonds','Clubs','Spades')), notes TEXT NOT NULL DEFAULT '', image_ref TEXT, folder_id INTEGER NOT NULL, FOREIGN KEY(folder_id) REFERENCES folders(id) ON DELETE CASCADE)"
+    ],
+    [
+      "folders",
+      "CREATE TABLE folders (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL UNIQUE CHECK(length(trim(name)) > 0), created_at TEXT NOT NULL)"
+    ],
+    [
+      "idx_cards_folder_id",
+      "CREATE INDEX idx_cards_folder_id ON cards(folder_id)"
+    ],
+    [
+      "my_table",
+      "CREATE TABLE my_table (\n_id INTEGER PRIMARY KEY,\nname TEXT NOT NULL,\nage INTEGER NOT NULL\n)"
+    ]
+  ],
+  "fresh_schema": [
+    [
+      "android_metadata",
+      "CREATE TABLE android_metadata (locale TEXT)"
+    ],
+    [
+      "cards",
+      "CREATE TABLE cards (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL CHECK(length(trim(title)) > 0), suit TEXT NOT NULL CHECK(suit IN ('Hearts','Diamonds','Clubs','Spades')), notes TEXT NOT NULL DEFAULT '', image_ref TEXT, folder_id INTEGER NOT NULL, FOREIGN KEY(folder_id) REFERENCES folders(id) ON DELETE CASCADE)"
+    ],
+    [
+      "folders",
+      "CREATE TABLE folders (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL UNIQUE CHECK(length(trim(name)) > 0), created_at TEXT NOT NULL)"
+    ],
+    [
+      "idx_cards_folder_id",
+      "CREATE INDEX idx_cards_folder_id ON cards(folder_id)"
+    ],
+    [
+      "my_table",
+      "CREATE TABLE my_table (\n_id INTEGER PRIMARY KEY,\nname TEXT NOT NULL,\nage INTEGER NOT NULL\n)"
+    ]
+  ],
+  "identical": true
+}

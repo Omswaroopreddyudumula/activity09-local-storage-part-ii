@@ -1,0 +1,80 @@
+Activity 09 · Folders [42,169][545,242]
+Refresh [828,143][954,269]
+Part I guests [954,143][1080,269]
+Fresh check
+Folder ID 1 · 0 cards [0,279][1080,468]
+Rename Fresh check [765,311][891,437]
+Delete Fresh check [891,311][1017,437]
+Add folder [685,2148][1038,2295]
+Activity 09 · Folders [42,169][545,242]
+Refresh [828,143][954,269]
+Part I guests [954,143][1080,269]
+Created folder ID 2 [381,300][699,353]
+Fresh check
+Folder ID 1 · 0 cards [0,374][1080,563]
+Rename Fresh check [765,405][891,531]
+Delete Fresh check [891,405][1017,531]
+Release sample
+Folder ID 2 · 0 cards [0,563][1080,752]
+Rename Release sample [765,594][891,720]
+Delete Release sample [891,594][1017,720]
+Add folder [685,2148][1038,2295]
+Back [11,143][137,269]
+Release sample · 1 cards [189,169][829,242]
+Refresh [954,143][1080,269]
+Created card ID 1 [393,300][687,353]
+♥
+Release card
+Card ID 1 · Hearts · Folder 2
+ [0,374][1080,605]
+Edit card 1 [765,395][891,521]
+Delete card 1 [891,395][1017,521]
+Add card [710,2148][1038,2295]
+Back [11,143][137,269]
+Release sample · 1 cards [189,169][829,242]
+Refresh [954,143][1080,269]
+Updated card ID 1: 1 row affected [257,300][823,353]
+♥
+Release revised
+Card ID 1 · Hearts · Folder 2
+Release smoke test [0,374][1080,605]
+Edit card 1 [765,395][891,521]
+Delete card 1 [891,395][1017,521]
+Add card [710,2148][1038,2295]
+Activity 09 · Folders [42,169][545,242]
+Refresh [828,143][954,269]
+Part I guests [954,143][1080,269]
+Fresh check
+Folder ID 1 · 0 cards [0,279][1080,468]
+Rename Fresh check [765,311][891,437]
+Delete Fresh check [891,311][1017,437]
+Release sample
+Folder ID 2 · 1 cards [0,468][1080,657]
+Rename Release sample [765,500][891,626]
+Delete Release sample [891,500][1017,626]
+Add folder [685,2148][1038,2295]
+Back [11,143][137,269]
+Release sample · 1 cards [189,169][829,242]
+Refresh [954,143][1080,269]
+♥
+Release revised
+Card ID 1 · Hearts · Folder 2
+Release smoke test [0,279][1080,510]
+Edit card 1 [765,300][891,426]
+Delete card 1 [891,300][1017,426]
+Add card [710,2148][1038,2295]
+Back [11,143][137,269]
+Release sample · 0 cards [189,169][829,242]
+Refresh [954,143][1080,269]
+Deleted ID 1: 1 row affected [305,300][775,353]
+No cards in this folder. [349,1361][731,1413]
+Add card [710,2148][1038,2295]
+Activity 09 · Folders [42,169][545,242]
+Refresh [828,143][954,269]
+Part I guests [954,143][1080,269]
+Deleted ID 2: 1 row affected [305,300][775,353]
+Fresh check
+Folder ID 1 · 0 cards [0,374][1080,563]
+Rename Fresh check [765,405][891,531]
+Delete Fresh check [891,405][1017,531]
+Add folder [685,2148][1038,2295]

@@ -1,0 +1,35 @@
+{"my_table": [[2, "River", 35], [3, "Acorn", 0], [4, "Oak", 130]], "folders": [[2, "Lantern", "2026-10-08T23:23:26.877610"]], "cards": [[3, "Beacon", "Clubs", "", null, 2]], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Back [11,143][137,269]
+Add card [189,169][419,242]
+    [42,321][1038,521]
+Enter a nonempty title [42,479][371,521]
+Suit
+Hearts [42,521][1038,668]
+Folder
+Lantern (ID 2) [42,668][1038,815]
+Save [42,1151][1038,1277]
+Cancel [42,1277][1038,1403]
+{"my_table": [[2, "River", 35], [3, "Acorn", 0], [4, "Oak", 130]], "folders": [[2, "Lantern", "2026-10-08T23:23:26.877610"]], "cards": [[3, "Beacon", "Clubs", "", null, 2]], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Add folder [236,977][845,1061]
+    [236,1103][845,1303]
+Enter a nonempty folder name [236,1261][687,1303]
+Cancel [440,1366][617,1492]
+Save [638,1366][845,1492]
+Dismiss [0,0][1080,2400]
+{"my_table": [[2, "River", 35], [3, "Acorn", 0], [4, "Oak", 130]], "folders": [[2, "Lantern", "2026-10-08T23:23:26.877610"]], "cards": [[3, "Beacon", "Clubs", "", null, 2]], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Add folder [168,820][912,904]
+Lantern [168,946][912,1093]
+Could not save. Folder names must be unique. DatabaseException(UNIQUE constraint failed: folders.name (code 2067 SQLITE_CONSTRAINT_UNIQUE)) sql 'INSERT INTO folders (name, created_at) VALUES (?, ?)' args [Lantern, 2026-10-08T23:29:40.085174] [168,1093][912,1460]
+Cancel [507,1523][684,1649]
+Save [705,1523][912,1649]
+Dismiss [0,0][1080,2400]
+{"my_table": [[2, "River", 35], [3, "Acorn", 0], [4, "Oak", 130]], "folders": [[2, "Lantern", "2026-10-08T23:23:26.877610"]], "cards": [[3, "Beacon", "Clubs", "", null, 2]], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Activity 09 · Folders [42,169][545,242]
+Refresh [828,143][954,269]
+Part I guests [954,143][1080,269]
+Deleted ID 1: 1 row affected [305,300][775,353]
+Lantern
+Folder ID 2 · 1 cards [0,374][1080,563]
+Rename Lantern [765,405][891,531]
+Delete Lantern [891,405][1017,531]
+Add folder [685,2148][1038,2295]

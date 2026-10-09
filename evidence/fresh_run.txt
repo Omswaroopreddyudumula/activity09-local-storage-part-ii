@@ -1,0 +1,12 @@
+{"my_table": [], "folders": [], "cards": [], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Activity 09 · Folders [42,169][545,242]
+Refresh [828,143][954,269]
+Part I guests [954,143][1080,269]
+No folders yet. Add a folder. [304,1313][776,1366]
+Add folder [685,2148][1038,2295]
+Back [11,143][137,269]
+Fresh check · 0 cards [189,169][732,242]
+Refresh [954,143][1080,269]
+No cards in this folder. [349,1313][731,1366]
+Add card [710,2148][1038,2295]
+{"my_table": [], "folders": [[1, "Fresh check", "2026-10-08T23:26:38.984902"]], "cards": [], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}

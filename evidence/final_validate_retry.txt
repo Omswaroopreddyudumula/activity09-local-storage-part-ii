@@ -1,0 +1,26 @@
+{"my_table": [[2, "River", 35], [3, "Acorn", 0], [4, "Oak", 130]], "folders": [[2, "Lantern", "2026-10-08T23:23:26.877610"]], "cards": [[3, "Beacon", "Clubs", "", null, 2]], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Add folder [168,951][912,1035]
+Lantern [168,1077][912,1224]
+A folder with this name already exists. Choose another name. [168,1224][912,1329]
+Cancel [507,1392][684,1518]
+Save [705,1392][912,1518]
+Dismiss [0,0][1080,2400]
+{"my_table": [[2, "River", 35], [3, "Acorn", 0], [4, "Oak", 130]], "folders": [[2, "Lantern", "2026-10-08T23:23:26.877610"]], "cards": [[3, "Beacon", "Clubs", "", null, 2]], "version": [[2]], "fk": [[0, 0, "folders", "folder_id", "id", "NO ACTION", "CASCADE", "NONE"]], "indexes": [[0, "idx_cards_folder_id", 0, "c", 0]]}
+Back [11,143][137,269]
+Fall Festival Roster [189,169][673,242]
+Register a guest [42,321][1038,374]
+Add [42,699][235,825]
+Refresh [256,699][511,825]
+Record count: 3 [42,857][1038,909]
+ID 2 • River
+Age 35 [42,951][1038,1161]
+Edit [659,993][827,1119]
+Delete [827,993][996,1119]
+ID 3 • Acorn
+Age 0 [42,1161][1038,1371]
+Edit [659,1203][827,1329]
+Delete [827,1203][996,1329]
+ID 4 • Oak
+Age 130 [42,1371][1038,1581]
+Edit [659,1413][827,1539]
+Delete [827,1413][996,1539]
